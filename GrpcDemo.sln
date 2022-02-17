@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcServer", "GrpcServer\GrpcServer.csproj", "{D8A04DA3-0F03-4839-95AB-1A716AE27AB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcClient", "GrpcClient\GrpcClient.csproj", "{7F7C7B84-4D0A-4307-9CD0-1361E5669B8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D8A04DA3-0F03-4839-95AB-1A716AE27AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8A04DA3-0F03-4839-95AB-1A716AE27AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8A04DA3-0F03-4839-95AB-1A716AE27AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7C7B84-4D0A-4307-9CD0-1361E5669B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7C7B84-4D0A-4307-9CD0-1361E5669B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7C7B84-4D0A-4307-9CD0-1361E5669B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7C7B84-4D0A-4307-9CD0-1361E5669B8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
